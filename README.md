@@ -1,7 +1,7 @@
 # SmartIrrigate
 Projeto da disciplina Objetos Inteligentes Conectados
 
-Dhouglas Nogueira Saraiva 
+Dhouglas Nogueira Saraiva e
 Guilherme Heck Lara
 
 Este projeto “SmartIrrigate” tem como objetivo a função de medir a umidade do solo e irrigar as plantas de maneira automatizada, utilizando um módulo NodeMCU ESP8266 juntamente com uma Sensor de Higrômetro que mede a umidade do solo, acionando quando necessário uma Bomba de Água através de um Relé que irá alimentar com uma mangueira o solo com água. Será controlado via protocolo MQTT, podendo acessar uma dashboard e verificar qual é o valor da umidade de solo no momento e irrigando se necessário.
